@@ -11,4 +11,3 @@ an illustrator for the signal recovery that shows the importance and validation 
 
 ## Demos
 
-D:\thirdyearsbmesecondsemster\dsp\sampling theory\sampling.mp4
